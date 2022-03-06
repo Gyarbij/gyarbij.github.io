@@ -1,0 +1,25 @@
+# Site settings
+title: Identity
+email: io@gyarbij.dev
+description: TWelcome to my slice of GitHubice.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Identity
+your-name: Jane Doe
+your-title: Senior Psychonautics Engineer
+
+# Social settings
+500px_url:
+facebook_url: https://facebook.com
+github_url:
+gitlab_url: https://gitlab.com/u/gyarbij
+googleplus_url: https://plus.google.com/u/0/+Gyarbij
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/gyarbij
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/gyarbij
+
+# Build settings
+markdown: kramdown
